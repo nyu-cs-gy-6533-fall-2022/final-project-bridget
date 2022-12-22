@@ -95,3 +95,13 @@ target_link_libraries(main_properties_bin ${LIBRARIES} ${OPENGL_LIBRARIES})
 
 add_executable(main_view_bin ${CMAKE_CURRENT_SOURCE_DIR}/extra/main_view.cpp ${SOURCES2})
 target_link_libraries(main_view_bin ${LIBRARIES} ${OPENGL_LIBRARIES})
+
+add_executable(box_wireframe ${CMAKE_CURRENT_SOURCE_DIR}/extra/box_wireframe.cpp ${SOURCES2})
+target_link_libraries(box_wireframe ${LIBRARIES} ${OPENGL_LIBRARIES})
+
+add_executable(sphere ${CMAKE_CURRENT_SOURCE_DIR}/extra/sphere.cpp ${SOURCES2})
+target_link_libraries(sphere ${LIBRARIES} ${OPENGL_LIBRARIES})
+
+add_executable(bunny ${CMAKE_CURRENT_SOURCE_DIR}/extra/bunny.cpp ${SOURCES2})
+target_link_libraries(bunny ${LIBRARIES} ${OPENGL_LIBRARIES})
+

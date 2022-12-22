@@ -62,9 +62,6 @@ public:
 class BufferObject
 {
 public:
-    typedef unsigned int GLuint;
-    typedef int GLint;
-
     GLuint id;
     GLuint rows;
     GLuint cols;
