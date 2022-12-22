@@ -24,3 +24,5 @@ KEYS:
 <img width="952" alt="image" src="https://user-images.githubusercontent.com/71089069/209055737-bddab742-89ae-4aef-9259-62470829d686.png">
 <img width="798" alt="image" src="https://user-images.githubusercontent.com/71089069/209056892-f8faad5a-8d08-4e9b-a818-7a97611ebfcc.png">
   
+FOR DETAILS OF SEPERATED OBJECTIVES AND EXAMPLES OF EACH ACTION IN USE:
+https://docs.google.com/presentation/d/1aSnl-fXGM-v8i99Oy4p7dKUv-EvLgdbb-U_OuaiDStY/edit?usp=sharing
